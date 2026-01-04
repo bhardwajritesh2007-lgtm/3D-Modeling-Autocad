@@ -8,7 +8,6 @@ The assignment demonstrates the practical application of *Presspull, Union, Subt
 
 ## 🛠 Software Used
 - *AutoCAD*
-- Version: Any version supporting 3D Modeling
 
 ---
 
